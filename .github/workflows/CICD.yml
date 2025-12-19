@@ -6,7 +6,6 @@ on:
  
 jobs:
   complie:
-
     runs-on: ubuntu-latest
 
     steps:
